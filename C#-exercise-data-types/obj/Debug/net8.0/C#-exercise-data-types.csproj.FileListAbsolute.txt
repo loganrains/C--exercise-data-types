@@ -1,0 +1,15 @@
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\bin\Debug\net8.0\C#-exercise-data-types.exe
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\bin\Debug\net8.0\C#-exercise-data-types.deps.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\bin\Debug\net8.0\C#-exercise-data-types.runtimeconfig.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\bin\Debug\net8.0\C#-exercise-data-types.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\bin\Debug\net8.0\C#-exercise-data-types.pdb
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.AssemblyInfoInputs.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.AssemblyInfo.cs
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.csproj.CoreCompileInputs.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.sourcelink.json
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\refint\C#-exercise-data-types.dll
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.pdb
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\C#-exercise-data-types.genruntimeconfig.cache
+C:\Users\Lrain\OneDrive\Desktop\Coding\LaunchCode\Repos\C#\C# Exercises\C#-exercise-data-types\C#-exercise-data-types\obj\Debug\net8.0\ref\C#-exercise-data-types.dll

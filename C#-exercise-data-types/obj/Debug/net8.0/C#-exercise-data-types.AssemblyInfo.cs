@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-exercise-data-types")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d10bd2b6024fa545f3ea963e466b5650c228a6")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-exercise-data-types")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-exercise-data-types")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
